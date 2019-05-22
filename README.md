@@ -1,6 +1,16 @@
-rotas:
 
-/works/create   -> Cria Cursos
+Trabalho de Conclusão de Curso Escola Estadual Hilda de Souza Ferreira
+Orientador: Profº Mestre: Rillian Diello Lucas Pires
+Aluna: EMANUELLY LOPES DA SILVA ARANTES
+DESENVOLVIMENTO DE UM REPOSITÓRIO DE ARQUIVOS UTILIZANDO O FRAMEWORK LARAVEL < Em construção>
+
+
+
+
+
+rotas a serem utilizadas para acessar elmentos:
+
+/works/create   -> Cria Cursos 
 /works          -> Lista Cursos
 /courses        -> Lista Cursos
 /courses/id     -> View Curso id
